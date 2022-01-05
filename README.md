@@ -11,7 +11,7 @@
 | Social Distance Monitoring | C-3PO | [Bala](https://github.com/gsbmk007) |
 | Face Mask Detection | C-3PO | [Siranjevi](https://github.com/21cb54siranjevi) - [Shalupriya](https://github.com/ShaluPriya-R) |
 | Rock Paper Scissors | Rockers | [Guru](https://github.com/Guruprasath-556) |
-| Emojinator | ..  | [Senthuran](https://github.com/SENTHURANLK/blockly.git) - [Samual](https://github.com/samualmartin) |
+| Emojinator | R2-D2  | [Senthuran](https://github.com/SENTHURANLK/blockly.git) - [Samual](https://github.com/samualmartin) |
 | Image Cartoonizer | X | X |
 
 
