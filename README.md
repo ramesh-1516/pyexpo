@@ -1,4 +1,4 @@
-# pyexpo
+# pyexpo2021
 
 
 | Title  | Team Name | Team Members |
@@ -17,7 +17,7 @@
 
 ## Mentors
 
-Harshavardhan - Video2Slise, People counter
+Harshavardhan - Video2Slide, People counter
 
 Dhanushlingam - Emojinator, Sign language
 
