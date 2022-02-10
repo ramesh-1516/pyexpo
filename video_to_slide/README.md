@@ -1,10 +1,30 @@
 ### Write about the project 
 
-#### Roadmap
-1. use opencv to convert video to frames (1 frame per second)
-2. check duplicates within images and filter our uinque images (image comparision)
-3. Object detection (Images + Text)
-4. Test --> OCR, Text and their coordinates
-5. Create a PPT
-6. https://www.tutorialspoint.com/how-to-create-powerpoint-files-using-python
+| Title | 
+## VIDEO-SLIDE 
+  
+## REQUIREMENTS
 
+pip install opencv-python 
+
+
+pip install pytesseract
+
+
+pip install youtube_dl
+
+
+pip install tk
+
+
+pip install python-pptx
+
+
+pip install imutils
+
+
+pip install pytest-shutil 
+
+## DOWNLOAD EXECUTABLE TESSERACT FILE FROM THIS LINK
+
+https://codetoprosper.com/tesseract-ocr-for-windows/
